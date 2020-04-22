@@ -34,7 +34,7 @@
 #### 方法一：模拟键盘按键输入
 
 <center>
-   <img src="https://mmbiz.qpic.cn/mmbiz_png/2MjD0uz9IQkppCvdvicp8roOqGt3DibScgUzuGGECLTGaaMXJLun6s6tZQKBfalHqjoCO6icw7F9ZAWKqyloW3ndw/0?wx_fmt=png" alt="image-20200420210840043" style="zoom:80%;" />
+   <img src="https://i.loli.net/2020/04/20/m8sIqiZP2zMTcFV.png" alt="image-20200420210840043" style="zoom:80%;" />
 </center>
 
 
@@ -101,14 +101,14 @@ def on_click(x, y, button, pressed):
 在Windows中想用快捷键直接调用程序，可以使用系统内置的方法。首先为文件创建一个快捷方式，其次在快捷方式的属性中就可以对快捷键进行设置。使用这个方法的最大问题是调用程序的速度较慢，存在一个数秒的延迟，经研究应为Windows系统本身的原因，与其它因素无关。
 
 <center>
-    <img alt = "image-20200421212450724" src = "https://mmbiz.qpic.cn/mmbiz_png/2MjD0uz9IQkppCvdvicp8roOqGt3DibScg96C413RMeePic73g82bG47uLmc0icHCRYkibTNwormN9wRNHnSvnyEniaA/0?wx_fmt=png" style="zoom:50%"/>
+    <img alt = "image-20200421212450724" src = "https://i.loli.net/2020/04/21/tlBIGdJDWYh6Ofx.png" style="zoom:50%"/>
 </center>
 
 
 另外在Windows中还可以使用快捷键来调用任务栏中的程序，调用方法为：`Win+数字`。比如在图示中，若想调用第一个程序，只需要输入`Win+1`即可。
 
 <center>
-    <img src="https://mmbiz.qpic.cn/mmbiz_png/2MjD0uz9IQkppCvdvicp8roOqGt3DibScgbn1XyKeEqAs3wt2KksmWpa423YOh9xN7CvIHXlTvCICib9c86taV4fA/0?wx_fmt=png" alt="image-20200421214016576" style="zoom:100%;" />
+    <img src="https://i.loli.net/2020/04/21/IgosOtn2eQi1Py4.png" alt="image-20200421214016576" style="zoom:100%;" />
 </center>
 
 
